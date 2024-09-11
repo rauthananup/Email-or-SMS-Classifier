@@ -1,4 +1,4 @@
-![spam_image](https://github.com/user-attachments/assets/72ad4753-001a-438f-9c75-9f3d39c08e2b)
+
 
 
 # Email-or-SMS-Classifier

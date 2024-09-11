@@ -1,3 +1,6 @@
+![spam_image](https://github.com/user-attachments/assets/72ad4753-001a-438f-9c75-9f3d39c08e2b)
+
+
 # Email-or-SMS-Classifier
 - Build an email spam classifier website with data cleaning, EDA, feature engineering, model building, evaluation, and deployment.
 - EDA is performed to understand the distribution of spam and ham messages and analyze the number of characters, words, and sentences used in the SMS.
